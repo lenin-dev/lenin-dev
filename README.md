@@ -1,5 +1,4 @@
-### DESARROLLADOR WEB 👋
-<h1 align="center">Hi 👋, I'm Lenin Alejandro</h1>
+<h1 align="center">Hola 👋, soy Lenin Alejandro</h1>
 <h3 align="center">Apasionado al desarrollor web</h3>
 
 <h3 align="left">Connect with me:</h3>

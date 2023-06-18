@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Lenin Alejandro</h1>
-<h2 align="center">Apasionado al desarrollor web</h2>
+<h2 align="center">DESARROLLADOR WEB</h2>
 
 <h3 aling="left">Sobre mi:</h3>
 <p aling="left">Hola soy Lenin Alejandro y tengo amplios conocimientos de HTML, css, JavaScript, php, mysql. Combinado con mis habilidades, ser autodidacta, mi pasión al desarrollo web y resolución de problemas me han llevado a seguir adentrandome más a este mundo de la tecnología.</p>
